@@ -1,0 +1,11 @@
+itemid,label,abbreviation,linksto,category,unitname,param_type,lownormalvalue,highnormalvalue
+220050,Arterial Blood Pressure systolic,ABPs,chartevents,Routine Vital Signs,mmHg,Numeric,90.0,140.0
+220051,Arterial Blood Pressure diastolic,ABPd,chartevents,Routine Vital Signs,mmHg,Numeric,60.0,90.0
+220052,Arterial Blood Pressure mean,ABPm,chartevents,Routine Vital Signs,mmHg,Numeric,,
+220179,Non Invasive Blood Pressure systolic,NBPs,chartevents,Routine Vital Signs,mmHg,Numeric,,
+220180,Non Invasive Blood Pressure diastolic,NBPd,chartevents,Routine Vital Signs,mmHg,Numeric,,
+220181,Non Invasive Blood Pressure mean,NBPm,chartevents,Routine Vital Signs,mmHg,Numeric,,
+224167,Manual Blood Pressure Systolic Left,Manual BPs L,chartevents,Routine Vital Signs,mmHg,Numeric,,
+224643,Manual Blood Pressure Diastolic Left,Manual BPd L,chartevents,Routine Vital Signs,mmHg,Numeric,,
+227242,Manual Blood Pressure Diastolic Right,Manual BPd R,chartevents,Routine Vital Signs,mmHg,Numeric,,
+227243,Manual Blood Pressure Systolic Right,Manual BPs R,chartevents,Routine Vital Signs,mmHg,Numeric,,
